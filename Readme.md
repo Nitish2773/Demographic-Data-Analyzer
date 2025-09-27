@@ -13,16 +13,20 @@ The goal is to answer demographic questions such as:
 * What jobs are most common among rich people in India?
 
 ---
-🧩 Example Mini Dataset
 
-Here’s a fake “dataset” in table form:
+## 🧩 Example Mini Dataset
 
-age	sex	education	hours-per-week	salary	race	native-country	occupation
-25	Male	Bachelors	40	>50K	White	United-States	Tech
-30	Female	HS-grad	20	<=50K	Black	India	Sales
-45	Male	Masters	50	>50K	White	India	Tech
-23	Male	HS-grad	15	<=50K	Asian	China	Farming
-50	Female	Doctorate	60	>50K	White	India	Exec
+Here’s a **fake dataset** (simplified for illustration):
+
+| age | sex    | education | hours-per-week | salary | race  | native-country | occupation |
+| --- | ------ | --------- | -------------- | ------ | ----- | -------------- | ---------- |
+| 25  | Male   | Bachelors | 40             | >50K   | White | United-States  | Tech       |
+| 30  | Female | HS-grad   | 20             | <=50K  | Black | India          | Sales      |
+| 45  | Male   | Masters   | 50             | >50K   | White | India          | Tech       |
+| 23  | Male   | HS-grad   | 15             | <=50K  | Asian | China          | Farming    |
+| 50  | Female | Doctorate | 60             | >50K   | White | India          | Exec       |
+
+---
 
 ## 🚀 Features & Questions Answered
 
